@@ -30,6 +30,7 @@
 		12E405E621737A3D0081A7C8 /* MRZField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MRZField.swift; sourceTree = "<group>"; };
 		12E405E821737B450081A7C8 /* MRZFieldFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MRZFieldFormatter.swift; sourceTree = "<group>"; };
 		12E4060F21737CD30081A7C8 /* QKMRZResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QKMRZResult.swift; sourceTree = "<group>"; };
+		28696311251E353900F5F01A /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +47,7 @@
 		12E405C621736C4A0081A7C8 = {
 			isa = PBXGroup;
 			children = (
+				28696311251E353900F5F01A /* Package.swift */,
 				12E405D221736C4A0081A7C8 /* QKMRZParser */,
 				12E405D121736C4A0081A7C8 /* Products */,
 			);
